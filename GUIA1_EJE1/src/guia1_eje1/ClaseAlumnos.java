@@ -1,6 +1,7 @@
 
 package guia1_eje1;
-public class ClaseAlumnos {
+public class ClaseAlumnos 
+// Modificación realizada para Github
     //Atributos 
     private String dni;
     private String nombres;
